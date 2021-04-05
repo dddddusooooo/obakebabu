@@ -219,7 +219,7 @@ body {
   transition-timing-function: ease-out;
   width: 35px;
   height: 106px;
-  background-image: url(/static/assets/image/static/index/index_img_stalker.png);
+  background-image: url(/obakebabu/static/assets/image/static/index/index_img_stalker.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
@@ -231,7 +231,7 @@ body {
   z-index: -1;
   width: 100%;
   height: 100vh;
-  background-image: url(/static/assets/image/static/index/index_bg_common_fire.png), url(/static/assets/image/static/index/index_bg_common_top.png), url(/static/assets/image/static/index/index_bg_common_btm.png), url(/static/assets/image/static/index/index_bg_common.jpg);
+  background-image: url(/obakebabu/static/assets/image/static/index/index_bg_common_fire.png), url(/obakebabu/static/assets/image/static/index/index_bg_common_top.png), url(/obakebabu/static/assets/image/static/index/index_bg_common_btm.png), url(/obakebabu/static/assets/image/static/index/index_bg_common.jpg);
   background-repeat: no-repeat, repeat-x, repeat-x, no-repeat;
   background-position: center, center top, center bottom, center;
   background-size: auto, auto, auto, cover;
